@@ -78,9 +78,9 @@ navbar-dark bg-dark
 Inspired by a devotee on Reddit who loves Govinda. :) </p>
 <p>I used <em>bash, grep and awk</em> to generate the selections.
 The code is not pretty but it works!</p>
-<p>Themes (tags) can be requested.
-<strong>Contact:</strong> <strong>Reddit</strong> or <strong>Discord</strong> <em>soul4krsna</em></p>
-<p><strong>Jaya Sri Prabhupada! Jaya Nitai-Gaur! Jaya Radha-Krsna!</strong></p>
+<p>Themes (tags) can be requested. You can also search your own sweetness using the Random page.</p>
+<p>Contac: <strong>Reddit</strong> or <strong>Discord</strong> <em>soul4krsna</em></p>
+<p><strong>Jaya Sri Prabhuda! Jaya Nitai! Jaya Krsna!</strong></p>
 <pre class="code literal-block"><span></span>a1 <span class="o">()</span> <span class="o">{</span>
     awk <span class="s1">'{print $1}'</span>
 <span class="o">}</span>
@@ -89,45 +89,44 @@ a2 <span class="o">()</span> <span class="o">{</span>
     awk <span class="s1">'{print $2}'</span>
 <span class="o">}</span>
 
-<span class="nv">gita</span><span class="o">=</span>/krsna/home/krsna-online/sites/rand-serv/gita
-gr <span class="o">()</span> <span class="o">{</span>
-    grep <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span> <span class="s2">"</span><span class="nv">$gita</span><span class="s2">"</span> <span class="p">|</span> a1 <span class="p">|</span> cat -n &gt; bgloc
-    <span class="nv">end</span><span class="o">=</span><span class="sb">`</span>grep <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span> <span class="s2">"</span><span class="nv">$gita</span><span class="s2">"</span> <span class="p">|</span> a1 <span class="p">|</span> cat -n <span class="p">|</span> a1 <span class="p">|</span> tail -1<span class="sb">`</span>
-    <span class="nv">post</span><span class="o">=</span><span class="sb">`</span>awk -v <span class="nv">min</span><span class="o">=</span><span class="m">1</span> -v <span class="nv">max</span><span class="o">=</span><span class="nv">$end</span> <span class="s1">'BEGIN{srand(); print int(min+rand()*(max-min+1))}'</span><span class="sb">`</span>
-    grep -w <span class="s2">"</span><span class="nv">$post</span><span class="s2">"</span> bgloc
-    <span class="nb">echo</span> <span class="s2">"gita:"</span><span class="nv">$1</span><span class="s2">"= nectar </span><span class="nv">$post</span><span class="s2"> of </span><span class="nv">$end</span><span class="s2">"</span> &gt;&gt; selection-bg 
-
+a3 <span class="o">()</span> <span class="o">{</span>
+    awk <span class="s1">'{print $3}'</span>
 <span class="o">}</span>
 
-rbgv <span class="o">()</span> <span class="o">{</span>
-    <span class="nv">line</span><span class="o">=</span><span class="sb">`</span>gr <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span> <span class="p">|</span> a2<span class="sb">`</span>
-    grep -B50 <span class="s2">"</span><span class="nv">$line</span><span class="s2">"</span> <span class="s2">"</span><span class="nv">$gita</span><span class="s2">"</span> <span class="p">|</span> grep <span class="s1">'###'</span> <span class="p">|</span> tail -1 <span class="p">|</span> awk <span class="s1">'{ print $3 }'</span> <span class="p">|</span> tr <span class="s1">'.'</span> <span class="s1">' '</span>&gt; tbgv
-    <span class="sb">`</span>cat tbgv <span class="p">|</span> awk <span class="s1">'{ print "cp /krsna/home/krsna-online/gita/isrc/"$1"/src/"$2".md"}'</span><span class="sb">`</span> <span class="s2">"</span><span class="nv">$PWD</span><span class="s2">/"</span>
-     mv <span class="s2">"</span><span class="k">$(</span>cat tbgv <span class="p">|</span> a2<span class="k">)</span><span class="s2">.md"</span> <span class="s2">"</span><span class="k">$(</span><span class="nb">echo</span> <span class="sb">`</span>cat tbgv <span class="p">|</span> tr <span class="s1">' '</span> <span class="s1">'.'</span><span class="sb">`</span>.md<span class="k">)</span><span class="s2">"</span>
-     cat selection-bg
-     cat tbgv &gt;&gt; hist-bg
+<span class="nv">gita</span><span class="o">=</span>/krsna/home/krsna-online/sites/rand-serv/gita
+gita-rand <span class="o">()</span> <span class="o">{</span>
+    grep -w <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span> <span class="s2">"</span><span class="nv">$gita</span><span class="s2">"</span> <span class="p">|</span> a1 <span class="p">|</span> cat -n &gt; bgloc
+    <span class="nv">end</span><span class="o">=</span><span class="k">$(</span>tail -1 bgloc <span class="p">|</span> a1<span class="k">)</span>
+    <span class="nv">random</span><span class="o">=</span><span class="k">$(</span>awk -v <span class="nv">min</span><span class="o">=</span><span class="m">1</span> -v <span class="nv">max</span><span class="o">=</span><span class="nv">$end</span> <span class="s1">'BEGIN{srand();\</span>
+<span class="s1">          print int(min+rand()*(max-min+1))}'</span><span class="k">)</span>
+    <span class="nv">line</span><span class="o">=</span><span class="k">$(</span>grep -w <span class="nv">$random</span> bgloc <span class="p">|</span> a2<span class="k">)</span>
+    <span class="nv">bgverse</span><span class="o">=</span><span class="k">$(</span>grep -w -B50 <span class="s2">"</span><span class="nv">$line</span><span class="s2">"</span> <span class="s2">"</span><span class="nv">$gita</span><span class="s2">"</span> <span class="p">|</span> grep <span class="s1">'###'</span><span class="se">\</span>
+         <span class="p">|</span> tail -1<span class="p">|</span> a3 <span class="p">|</span> tr <span class="s1">'.'</span> <span class="s1">' '</span><span class="se">\</span>
+         <span class="p">|</span> awk <span class="s1">'{ print "cp /krsna/home/krsna-online/gita/isrc/"$1"/src/"$2".md"}'</span><span class="k">)</span>
+    <span class="nb">eval</span> <span class="nv">$bgverse</span> <span class="s2">"."</span>
+    <span class="nb">echo</span> <span class="s2">"gita:"</span><span class="nv">$1</span><span class="s2">"= nectar </span><span class="nv">$random</span><span class="s2"> of </span><span class="nv">$end</span><span class="s2">"</span> &gt;&gt; selection-bg
+    cat selection-bg 
+
 <span class="o">}</span>
 
 <span class="nv">sb</span><span class="o">=</span>/krsna/home/krsna-online/sites/rand-serv/sb
-sb <span class="o">()</span> <span class="o">{</span>
-    grep <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span> <span class="s2">"</span><span class="nv">$sb</span><span class="s2">"</span> <span class="p">|</span> a1 <span class="p">|</span> cat -n &gt;&gt; sbloc
-    <span class="nv">end</span><span class="o">=</span><span class="sb">`</span>grep <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span> <span class="s2">"</span><span class="nv">$sb</span><span class="s2">"</span> <span class="p">|</span> a1 <span class="p">|</span> cat -n <span class="p">|</span> a1 <span class="p">|</span> tail -1<span class="sb">`</span>
-    <span class="nv">post</span><span class="o">=</span><span class="sb">`</span>awk -v <span class="nv">min</span><span class="o">=</span><span class="m">1</span> -v <span class="nv">max</span><span class="o">=</span><span class="nv">$end</span> <span class="s1">'BEGIN{srand(); print int(min+rand()*(max-min+1))}'</span><span class="sb">`</span>
-    grep -w <span class="s2">"</span><span class="nv">$post</span><span class="s2">"</span> sbloc
-    <span class="nb">echo</span> <span class="s2">"bhagavatam:"</span><span class="nv">$1</span><span class="s2">"= nectar </span><span class="nv">$post</span><span class="s2"> of </span><span class="nv">$end</span><span class="s2">"</span> &gt;&gt; selection-sb
-
-<span class="o">}</span>
-
-rsbv <span class="o">()</span> <span class="o">{</span>
-    <span class="nv">line</span><span class="o">=</span><span class="sb">`</span>sb <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span>  <span class="p">|</span> a2<span class="sb">`</span>
-    grep -B50 <span class="s2">"</span><span class="nv">$line</span><span class="s2">"</span> <span class="s2">"</span><span class="nv">$sb</span><span class="s2">"</span> <span class="p">|</span> grep <span class="s1">'###'</span> <span class="p">|</span> tail -1 <span class="p">|</span> awk <span class="s1">'{ print $3 }'</span> &gt; tsbv
-    find /krsna/home/krsna-online/bhagavatam/isrc -name <span class="k">$(</span><span class="nb">echo</span> <span class="sb">`</span>cat tsbv<span class="sb">`</span>.md<span class="k">)</span> -exec cp <span class="o">{}</span> <span class="nv">$PWD</span> <span class="se">\;</span> 
-    cat selection-sb <span class="p">;</span> cat tsbv &gt;&gt; hist-sb <span class="p">;</span> cat tsbv
+sb-rand <span class="o">()</span> <span class="o">{</span>
+    grep -w <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span> <span class="s2">"</span><span class="nv">$sb</span><span class="s2">"</span> <span class="p">|</span> a1 <span class="p">|</span> cat -n &gt; sbloc
+        <span class="nv">end</span><span class="o">=</span><span class="k">$(</span>tail -1 sbloc <span class="p">|</span> a1<span class="k">)</span>
+        <span class="nv">random</span><span class="o">=</span><span class="k">$(</span>awk -v <span class="nv">min</span><span class="o">=</span><span class="m">1</span> -v <span class="nv">max</span><span class="o">=</span><span class="nv">$end</span> <span class="s1">'BEGIN{srand();\</span>
+<span class="s1">              print int(min+rand()*(max-min+1))}'</span><span class="k">)</span>
+        <span class="nv">line</span><span class="o">=</span><span class="k">$(</span>grep -w <span class="nv">$random</span> sbloc <span class="p">|</span> a2<span class="k">)</span>
+    <span class="nv">sbverse</span><span class="o">=</span><span class="k">$(</span>grep -w -B50 <span class="s2">"</span><span class="nv">$line</span><span class="s2">"</span> <span class="s2">"</span><span class="nv">$sb</span><span class="s2">"</span> <span class="p">|</span> grep <span class="s1">'###'</span><span class="se">\</span>
+           <span class="p">|</span> tail -1 <span class="p">|</span> a3<span class="k">)</span>
+    find /krsna/home/krsna-online/bhagavatam/isrc<span class="se">\</span>
+    -name <span class="k">$(</span><span class="nb">echo</span> <span class="s2">"</span><span class="nv">$sbverse</span><span class="s2">"</span>.md<span class="k">)</span> -exec cp <span class="o">{}</span> <span class="s2">"."</span> <span class="se">\;</span> 
+        <span class="nb">echo</span> <span class="s2">"sb:"</span><span class="nv">$1</span><span class="s2">"= nectar </span><span class="nv">$random</span><span class="s2"> of </span><span class="nv">$end</span><span class="s2">"</span> &gt;&gt; selection-sb
+    cat selection-sb 
 <span class="o">}</span>
 
 nr <span class="o">()</span> <span class="o">{</span>
-    rbgv <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span>
-    rsbv <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span>
+    gita-rand <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span>
+    sb-rand <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span>
 <span class="o">}</span>
 </pre>
 </div>
