@@ -1,0 +1,4 @@
+Sitemap: https://krsna-rand.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: krsna-rand.github.io
