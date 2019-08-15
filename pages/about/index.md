@@ -8,6 +8,7 @@
 .. description: 
 .. type: text
 -->
+
 Your daily dose of nectar according to the sweet will of Sri Guru Maharaja. Inspired by a devotee on Reddit who loves Govinda. :)
 
 I used bash, grep and awk to generate the selections. The code is not pretty but it works!
