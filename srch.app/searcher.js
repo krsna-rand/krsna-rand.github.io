@@ -255,7 +255,6 @@ window.search = window.search || {};
         searchindex = elasticlunr.Index.load(config.index);
 
         // Set up events
-        searchicon.addEventListener('click', function(e) { searchIconClickHandler(); }, false);
         searchbar.addEventListener('keyup', function(e) { searchbarKeyUpHandler(); }, false);
         document.addEventListener('keydown', function(e) { globalKeyHandler(e); }, false);
         // If the user uses the browser buttons, do the same as if a reload happened
@@ -282,12 +281,12 @@ window.search = window.search || {};
         var url = parseURL(window.location.href);
         if (url.params.hasOwnProperty(URL_SEARCH_PARAM)
             && url.params[URL_SEARCH_PARAM] != "") {
-            showSearch(true);
+            
             searchbar.value = decodeURIComponent(
                 (url.params[URL_SEARCH_PARAM]+'').replace(/\+/g, '%20'));
             searchbarKeyUpHandler(); // -> doSearch()
         } else {
-            showSearch(false);
+            
         }
 
         if (url.params.hasOwnProperty(URL_MARK_PARAM)) {
@@ -321,11 +320,11 @@ window.search = window.search || {};
             if (hasFocus()) {
                 unfocusSearchbar();
             }
-            showSearch(false);
+            
             marker.unmark();
         } else if (!hasFocus() && e.keyCode === SEARCH_HOTKEY_KEYCODE) {
             e.preventDefault();
-            showSearch(true);
+            
             window.scrollTo(0, 0);
             searchbar.select();
         } else if (hasFocus() && e.keyCode === DOWN_KEYCODE) {
