@@ -1,10 +1,10 @@
 <!--
-.. title: Srimad::Nectar 90 of 819
+.. title: SB:ignorance:90/819
 .. slug: sb-90-ignorance
 .. date: 2019-08-14 03:45:35 UTC-04:00
 .. tags: ignorance
 .. category: bhagavatam
-.. link: 
+.. link:
 .. description: ignorance
 .. type: text
 -->

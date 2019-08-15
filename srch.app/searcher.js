@@ -359,20 +359,6 @@ window.search = window.search || {};
         }
     }
     
-    function showSearch(yes) {
-        if (yes) {
-            search_wrap.classList.remove('hidden');
-            searchicon.setAttribute('aria-expanded', 'true');
-        } else {
-            search_wrap.classList.add('hidden');
-            searchicon.setAttribute('aria-expanded', 'false');
-            var results = searchresults.children;
-            for (var i = 0; i < results.length; i++) {
-                results[i].classList.remove("focus");
-            }
-        }
-    }
-
     function showResults(yes) {
         if (yes) {
             searchresults_outer.classList.remove('hidden');
@@ -381,16 +367,6 @@ window.search = window.search || {};
         }
     }
 
-    // Eventhandler for search icon
-    function searchIconClickHandler() {
-        if (search_wrap.classList.contains('hidden')) {
-            showSearch(true);
-            window.scrollTo(0, 0);
-            searchbar.select();
-        } else {
-            showSearch(false);
-        }
-    }
     
     // Eventhandler for keyevents while the searchbar is focused
     function searchbarKeyUpHandler() {

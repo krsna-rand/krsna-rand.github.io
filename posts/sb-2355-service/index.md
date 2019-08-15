@@ -1,10 +1,10 @@
 <!--
-.. title: Srimad::Nectar 2355 of 4666
+.. title: SB:service:2355/4666
 .. slug: sb-2355-service
 .. date: 2019-08-12 14:02:37 UTC-04:00
 .. tags: service
 .. category: bhagavatam
-.. link: 
+.. link:
 .. description: service
 .. type: text
 -->

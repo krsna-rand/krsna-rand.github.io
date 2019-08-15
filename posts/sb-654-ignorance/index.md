@@ -1,11 +1,11 @@
 <!--
-.. title: Srimad::Nectar 654 of 819
+.. title: SB:ignorance:654/819
 .. slug: sb-654-ignorance
 .. date: 2019-08-13 10:08:37 UTC-04:00
 .. tags: ignorance
 .. category: bhagavatam
-.. link: 
-.. description: ignorance 
+.. link:
+.. description: ignorance
 .. type: text
 -->
 

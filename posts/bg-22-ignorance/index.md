@@ -1,10 +1,10 @@
 <!--
-.. title: Bhagavad-gita::Nectar 22 of 199
+.. title: Bg:ignorance:22/199
 .. slug: bg-22-ignorance
 .. date: 2019-08-14 03:48:37 UTC-04:00
 .. tags: ignorance
 .. category: bhagavad-gita
-.. link: 
+.. link:
 .. description: ignorance
 .. type: text
 -->

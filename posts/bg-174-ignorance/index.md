@@ -1,11 +1,11 @@
 <!--
-.. title: Bhagavad-gita::Nectar 174 of 199
+.. title: Bg:ignorance:174/199
 .. slug: bg-174-ignorance
 .. date: 2019-08-13 10:07:43 UTC-04:00
-.. tags: ignorance 
+.. tags: ignorance
 .. category: bhagavad-gita
-.. link: 
-.. description: ignorance 
+.. link:
+.. description: ignorance
 .. type: text
 -->
 

@@ -1,10 +1,10 @@
 <!--
-.. title: Bhagavad-gita::Nectar 303 of 595
+.. title: Bg:service:303/595
 .. slug: bg-303-service
 .. date: 2019-08-12 14:00:43 UTC-04:00
 .. tags: service
 .. category: bhagavad-gita
-.. link: 
+.. link:
 .. description: service
 .. type: text
 -->
