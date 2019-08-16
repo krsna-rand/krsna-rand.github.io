@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-I offer you respectful obeisances. Thank you for making time to purify your mind.
+I offer my respectful obeisances. Thank you for making time to purify your mind.
 
 According to the sweet will of Sri Guru Maharaja please enjoy your daily dose of nectar.
 
