@@ -19,7 +19,7 @@ Explaining the titles: *Bg:service:22/595* = instance **22** of **service** out 
 
 I used the Linux tool **awk** to generate the selections and **Nikola** to generate the website.
 
-Themes or *tags* can be requested. You can also search for nectar in the [Random](../srch.app/index.html) page.
+Themes or *tags* can be requested. You can also search for nectar in the [Random](../../srch.app/index.html) page.
 
 ---
 
