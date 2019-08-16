@@ -9,21 +9,23 @@
 .. type: text
 -->
 
-Your daily dose of nectar according to the sweet will of Sri Guru Maharaja.
+I offer you respectful obeisances. Thank you for making time to purify your mind.
+
+According to the sweet will of Sri Guru Maharaja please enjoy your daily dose of nectar.
 
 Inspired by a devotee on Reddit who loves Govinda. :)
 
-Explaining the titles: *Bg:service:22/595* = instance **22** of **service** out of **595** total mentions. 
+Title explanation: *Bg/SB:service:22/595* = instance **22** of **service** from **595** total mentions. 
 
-**Bg** = Bhagavad-gita and **SB** = Srimad Bhagavatam.
+**Bg** = Bhagavad-gita ; **SB** = Srimad Bhagavatam.
 
-I used the Linux tool **awk** to generate the selections and **Nikola** to generate the website.
+Linux tools **Nikola** and **awk** used to generate the website and selections respectively.
 
-Themes or *tags* can be requested. You can also search for nectar in the [Random](../../srch.app/index.html) page.
+Themes or *tags* can be requested. Search for your own tag in the [Random](../../srch.app/index.html) page.
 
 ---
 
-Best yoga? **Mantra-yoga** 
+Best yoga? **mantra-yoga** or **bhakti-yoga** 
 
 Chant...
 
@@ -31,24 +33,23 @@ Chant...
 
 #### hare rama hare rama rama rama hare hare
 
-..and find real happiness and bliss.
+..and find real happiness.
 
-Jaya Sri Prabhupada!
+#### &
 
-Jaya Nitai-Gaur!
+Read in a new way! Find out the difference.
 
-Jaya Radha-Krsna!
+[Bhagavad-gita](https://bg-ai.github.io)
+
+[Srimad Bhagavatam](https://srimad-bhagavatam.github.io)
 
 ---
 
-#### Contact: 
+#### Contact me: 
 
 Reddit & Discord: **soul4krsna** 
 
 [bhagavatam.purana@gmail.com](mailto:bhagavatam.purana@gmail.com)
 
----
-
-**Haribol!**
-
+Jaya Srila Prabhupada! Jaya Nitai-Gaur! Jaya Radha-Krsna!
 
