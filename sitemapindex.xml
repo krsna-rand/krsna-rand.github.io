@@ -7,30 +7,34 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://krsna-rand.github.io/categories/cat_bhagavad-gita.xml</loc>
-  <lastmod>2019-08-15T07:58:00Z</lastmod>
+  <lastmod>2019-08-15T20:47:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://krsna-rand.github.io/categories/cat_bhagavatam.xml</loc>
-  <lastmod>2019-08-15T07:58:00Z</lastmod>
+  <lastmod>2019-08-15T20:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://krsna-rand.github.io/categories/family.xml</loc>
+  <lastmod>2019-08-15T20:47:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://krsna-rand.github.io/categories/ignorance.xml</loc>
-  <lastmod>2019-08-15T07:37:00Z</lastmod>
+  <lastmod>2019-08-15T08:13:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://krsna-rand.github.io/categories/service.xml</loc>
-  <lastmod>2019-08-15T07:58:00Z</lastmod>
+  <lastmod>2019-08-15T08:13:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://krsna-rand.github.io/galleries/rss.xml</loc>
-  <lastmod>2019-08-15T07:37:00Z</lastmod>
+  <lastmod>2019-08-15T23:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://krsna-rand.github.io/rss.xml</loc>
-  <lastmod>2019-08-15T07:58:00Z</lastmod>
+  <lastmod>2019-08-15T20:47:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://krsna-rand.github.io/sitemap.xml</loc>
-  <lastmod>2019-08-15T07:58:00Z</lastmod>
+  <lastmod>2019-08-15T23:39:00Z</lastmod>
  </sitemap>
 </sitemapindex>
