@@ -1,7 +1,7 @@
 <!--
 .. title: About
 .. slug: about
-.. date: 2019-08-12 16:30:51 UTC-04:00
+.. date: 2019-08-15 23:30:51 UTC-04:00
 .. tags: 
 .. category: 
 .. link: 
@@ -9,64 +9,46 @@
 .. type: text
 -->
 
-Your daily dose of nectar according to the sweet will of Sri Guru Maharaja. Inspired by a devotee on Reddit who loves Govinda. :)
+Your daily dose of nectar according to the sweet will of Sri Guru Maharaja.
 
-I used bash, grep and awk to generate the selections. The code is not pretty but it works!
+Inspired by a devotee on Reddit who loves Govinda. :)
 
-Themes (tags) can be requested. You can also search your own sweetness using the Random page.
+Explaining the titles: *Bg:service:22/595* = instance **22** of **service** out of **595** total mentions. 
 
-Contact me on Reddit or Discord, *soul4krsna* or *bhagavatam.purana@gmail.com*
+**Bg** = Bhagavad-gita and **SB** = Srimad Bhagavatam.
 
-**Jaya Sri Prabhupada! Jaya Nitai-Gaur! Jaya Radha-Krsna!**
+I used the Linux tool **awk** to generate the selections and **Nikola** to generate the website.
 
-```bash
-a1 () {
-    awk '{print $1}'
-}
+Themes or *tags* can be requested. You can also search for nectar in the [Random](../srch.app/index.html) page.
 
-a2 () {
-    awk '{print $2}'
-}
+---
 
-a3 () {
-    awk '{print $3}'
-}
+Best yoga? **Mantra-yoga** 
 
-gita=/krsna/home/krsna-online/sites/rand-serv/gita
-gita-rand () {
-	grep -w "$1" "$gita" | a1 | cat -n > bgloc
-	end=$(tail -1 bgloc | a1)
-	random=$(awk -v min=1 -v max=$end 'BEGIN{srand();\
-	      print int(min+rand()*(max-min+1))}')
-	line=$(grep -w $random bgloc | a2)
-	bgverse=$(grep -w -B50 "$line" "$gita" | grep '###'\
-	     | tail -1| a3 | tr '.' ' '\
-	     | awk '{ print "cp /krsna/home/krsna-online/gita/isrc/"$1"/src/"$2".md"}')
-	eval $bgverse "."
-	echo "gita:"$1"= nectar $random of $end" >> selection-bg
-	cat selection-bg 
+Chant...
 
-}
+#### hare krsna hare krsna krsna krsna hare hare
 
-sb=/krsna/home/krsna-online/sites/rand-serv/sb
-sb-rand () {
-	grep -w "$1" "$sb" | a1 | cat -n > sbloc
-        end=$(tail -1 sbloc | a1)
-        random=$(awk -v min=1 -v max=$end 'BEGIN{srand();\
-              print int(min+rand()*(max-min+1))}')
-        line=$(grep -w $random sbloc | a2)
-	sbverse=$(grep -w -B50 "$line" "$sb" | grep '###'\
-	       | tail -1 | a3)
-	find /krsna/home/krsna-online/bhagavatam/isrc\
-	-name $(echo "$sbverse".md) -exec cp {} "." \; 
-        echo "sb:"$1"= nectar $random of $end" >> selection-sb
-	cat selection-sb 
-}
+#### hare rama hare rama rama rama hare hare
 
-nr () {
-	gita-rand "$1"
-	sb-rand "$1"
-}
+..and find real happiness and bliss.
 
-```
+Jaya Sri Prabhupada!
+
+Jaya Nitai-Gaur!
+
+Jaya Radha-Krsna!
+
+---
+
+#### Contact: 
+
+Reddit & Discord: **soul4krsna** 
+
+[bhagavatam.purana@gmail.com](mailto:bhagavatam.purana@gmail.com)
+
+---
+
+**Haribol!**
+
 
