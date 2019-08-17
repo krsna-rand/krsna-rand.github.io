@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-### The Opulence of the Absolute
+## The Opulence of the Absolute
 
 #### 10.8
 

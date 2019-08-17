@@ -9,9 +9,9 @@
 .. type: text
 -->
 
-### Canto 4: Creation of the Fourth Order
+## Canto 4: Creation of the Fourth Order
 
-### Attack by Candavega
+## Attack by Candavega
 
 #### 4.27.3
 

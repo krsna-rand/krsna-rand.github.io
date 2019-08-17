@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-### Transcendental Knowledge
+## Transcendental Knowledge
 
 #### 4.10
 

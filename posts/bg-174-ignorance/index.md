@@ -9,9 +9,9 @@
 .. type: text
 -->
 
-### The Divisions of Faith
+## The Divisions of Faith
 
-### 17.28
+## 17.28
 
 aśraddhayā hutaṁ dattaṁ
 

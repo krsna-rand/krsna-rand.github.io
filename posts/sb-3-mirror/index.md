@@ -9,9 +9,9 @@
 .. type: text
 -->
 
-### Canto 2: Cosmic Manifestation
+## Canto 2: Cosmic Manifestation
 
-### Answering by Citing the Lord's Version
+## Answering by Citing the Lord's Version
 
 #### 2.9.1
 

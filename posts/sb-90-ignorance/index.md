@@ -9,9 +9,9 @@
 .. type: text
 -->
 
-### Canto 2: Cosmic Manifestation
+## Canto 2: Cosmic Manifestation
 
-### First Step in God Realization
+## First Step in God Realization
 
 #### 2.1.4
 

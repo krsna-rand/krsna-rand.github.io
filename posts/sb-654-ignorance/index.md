@@ -9,9 +9,9 @@
 .. type: text
 -->
 
-### Canto 7: The Science of God
+## Canto 7: The Science of God
 
-### Prahlada Maharaja
+## Prahlada Maharaja
 
 #### 7.5.16
 
