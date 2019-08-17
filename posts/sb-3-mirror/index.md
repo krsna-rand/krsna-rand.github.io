@@ -9,7 +9,9 @@
 .. type: text
 -->
 
-## Answering by Citing the Lord's Version
+### Canto 2: Cosmic Manifestation
+
+### Answering by Citing the Lord's Version
 
 ### 2.9.1
 
@@ -71,7 +73,11 @@ There is no necessity of tracing out the history of when the living entity desir
 
 But the fact is that as soon as he desired it, he was put under the control of atma-maya by the direction of the Lord.
 
-Therefore the living entity in his material condition is dreaming falsely that this is min and this is I The dream is that the conditioned soul thinks of his material body as  or falsely thinks that he is the Lord and that everything in connection with that material body is mine Thus only in dream does the misconception of  and min persist life after life.
+Therefore the living entity in his material condition is dreaming falsely that this is mine and this is I.
+
+The dream is that the conditioned soul thinks of his material body as or falsely thinks that he is the Lord and that everything in connection with that material body is mine.
+
+Thus only in dream does the misconception of and mine persist life after life.
 
 This continues life after life, as long as the living entity is not purely conscious of his identity as the subordinate part and parcel of the Lord.
 

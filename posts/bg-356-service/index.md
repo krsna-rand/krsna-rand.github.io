@@ -9,6 +9,8 @@
 .. type: text
 -->
 
+### The Opulence of the Absolute
+
 ### 10.8
 
 ahaṁ sarvasya prabhavo

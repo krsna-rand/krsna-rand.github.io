@@ -8,6 +8,9 @@
 .. description: mirror
 .. type: text
 -->
+
+### The Most Confidential Knowledge
+
 ### 9.28
 
 śubhāśubha-phalair evaṁ

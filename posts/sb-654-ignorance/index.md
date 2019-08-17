@@ -9,6 +9,10 @@
 .. type: text
 -->
 
+### Canto 7: The Science of God
+
+### Prahlada Maharaja
+
 ### 7.5.16
 
 aniyatam are vetram
