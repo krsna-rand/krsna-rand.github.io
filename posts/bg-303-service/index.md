@@ -11,7 +11,7 @@
 
 ### The Most Confidential Knowledge
 
-### 9.23
+#### 9.23
 
 ye ’py anya-devatā-bhaktā
 

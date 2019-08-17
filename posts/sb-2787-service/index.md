@@ -4,7 +4,7 @@
 .. date: 2019-08-15 03:57:39 UTC-04:00
 .. tags: service
 .. category: bhagavatam
-.. link: 
+.. link:
 .. description: service
 .. type: text
 -->
@@ -13,7 +13,7 @@
 
 ### Attack by Candavega
 
-### 4.27.3
+#### 4.27.3
 
 tayopagudhah parirabdha-kandharo
 

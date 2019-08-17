@@ -11,7 +11,7 @@
 
 ### Transcendental Knowledge
 
-### 4.10
+#### 4.10
 
 vīta-rāga-bhaya-krodhā
 

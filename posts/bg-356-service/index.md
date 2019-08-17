@@ -3,15 +3,15 @@
 .. slug: bg-356-service
 .. date: 2019-08-15 03:55:27 UTC-04:00
 .. tags: service
-.. category: bhagavad-gita 
-.. link: 
+.. category: bhagavad-gita
+.. link:
 .. description: service
 .. type: text
 -->
 
 ### The Opulence of the Absolute
 
-### 10.8
+#### 10.8
 
 ahaṁ sarvasya prabhavo
 

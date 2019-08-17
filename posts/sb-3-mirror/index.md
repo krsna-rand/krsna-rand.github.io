@@ -1,7 +1,7 @@
 <!--
 .. title: SB:mirror:3/30
 .. slug: sb-3-mirror
-.. date: 2019-08-16 13:29:43 UTC-04:00 
+.. date: 2019-08-16 13:29:43 UTC-04:00
 .. tags: mirror
 .. category: bhagavatam
 .. link:
@@ -13,7 +13,7 @@
 
 ### Answering by Citing the Lord's Version
 
-### 2.9.1
+#### 2.9.1
 
 sri-suka uvaca
 

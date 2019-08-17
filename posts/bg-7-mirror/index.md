@@ -1,7 +1,7 @@
 <!--
 .. title: Bg:mirror:7/7
 .. slug: bg-7-mirror
-.. date: 2019-08-16 13:29:18 UTC-04:00 
+.. date: 2019-08-16 13:29:18 UTC-04:00
 .. tags: mirror
 .. category: bhagavad-gita
 .. link:
@@ -11,7 +11,7 @@
 
 ### The Most Confidential Knowledge
 
-### 9.28
+#### 9.28
 
 śubhāśubha-phalair evaṁ
 
