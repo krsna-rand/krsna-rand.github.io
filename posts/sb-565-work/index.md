@@ -73,7 +73,9 @@ He is the source of our knowledge, and He can give us liberation.
 
 Therefore it is our duty to understand Him according to the instructions of devotees, in particular the spiritual master.
 
-Although for us the mode of goodness is covered, by following the instructions of saintly persons and the spiritual master we can be freed from material clutches The self-effulgent material form of the Supreme Personality of Godhead is adored by nondevotees, His impersonal form is adored by those advanced in spiritual knowledge, and His feature as the localized Supersoul is appreciated by yogis.
+Although for us the mode of goodness is covered, by following the instructions of saintly persons and the spiritual master we can be freed from material clutches.
+
+The self-effulgent material form of the Supreme Personality of Godhead is adored by nondevotees, His impersonal form is adored by those advanced in spiritual knowledge, and His feature as the localized Supersoul is appreciated by yogis.
 
 But His original form as a person is understood only by devotees.
 
