@@ -1,4 +1,6 @@
 Sitemap: https://krsna-rand.github.io/sitemapindex.xml
 
 User-Agent: *
+Disallow: /archive.html
+Disallow: /category/*.html
 Host: krsna-rand.github.io
