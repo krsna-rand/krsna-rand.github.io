@@ -11,7 +11,7 @@
 
 ## Canto 8: Withdrawal of the Cosmic Creation
 
-## Summary
+## Gajendra’s Prayers of Surrender - Summary
 
 #### 8.3
 
@@ -21,11 +21,13 @@ It appears that the King of the elephants was formerly a human being known as In
 
 Fortunately he remembered that prayer and began to chant it to himself.
 
-<!-- TEASER_END -->
-
 First he offered his respectful obeisances to the Supreme Personality of Godhead, and because of his awkward position in having been attacked by the crocodile, he expressed his inability to recite prayers nicely.
 
-Nonetheless, he tried to chant the mantra and expressed himself in appropriate words as follows The Supreme Personality of Godhead is the cause of all causes, the original person from whom everything has emanated.
+<!-- TEASER_END -->
+
+Nonetheless, he tried to chant the mantra and expressed himself in appropriate words as follows:
+
+"The Supreme Personality of Godhead is the cause of all causes, the original person from whom everything has emanated.
 
 He is the root cause of this cosmic manifestation, and the entire cosmos rests in Him, yet He is transcendental, for He does everything in relation to the material world through His external energy.
 
@@ -85,7 +87,9 @@ Nonetheless, a pure devotee does not aspire to go back to Godhead; he is simply 
 
 A pure devotee does not ask anything from the Supreme Personality of Godhead.
 
-His only prayer is to be freed from the material conception of life and to be engaged in the Lord’s transcendental loving service In this way the King of the elephants, Gajendra, offered prayers directly to the Supreme Personality of Godhead, without mistaking Him for one of the demigods.
+His only prayer is to be freed from the material conception of life and to be engaged in the Lord’s transcendental loving service."
+
+In this way the King of the elephants, Gajendra, offered prayers directly to the Supreme Personality of Godhead, without mistaking Him for one of the demigods.
 
 None of the demigods came to see him, not even Brahma or Siva.
 
