@@ -130,3 +130,7 @@ table.codetable { width: 100%;} td.linenos {text-align: right; width: 4em;}
         margin-right: 0;
 }
 
+body {
+	text-size: 1.2rem;
+}
+
