@@ -1233,7 +1233,7 @@ header .entry-meta{display:none}
 .pagination{margin:20px 10px;text-align:center}
 .pagination ul{display:inline;margin-left:10px;margin-right:10px}
 .pagination li{padding-left:4px;padding-right:4px}
-.pagination .current-page{font-weight:700}
+.pagination .current-page{font-weight:500}
 .read-more{position:relative;margin:40px 2px 20px 2px;padding:40px 15px 25px;background-color:#fff;box-shadow:0 0 0 1px rgba(187,187,187,0.1),0 6px 12px rgba(0,0,0,0.1);-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;text-align:center;*zoom:1}
 @media only screen and (min-width: 48em){.read-more{margin:50px 10px 20px 10px;padding:50px 40px 25px}
 }
