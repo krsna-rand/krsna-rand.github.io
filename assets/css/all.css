@@ -828,7 +828,7 @@ blockquote{font-family:serif;font-style:italic;border-left:8px solid rgba(187,18
 @media only screen and (min-width: 48em){blockquote{margin-left:-28px}
 }
 .entry-content li{margin-bottom:7px}
-.entry-content .footnotes ol,.entry-content .footnotes li,.entry-content .footnotes p{font-size:20px;font-size:1,2rem;line-height:1.8571;margin-bottom:26px;margin-bottom:1.625rem}
+.entry-content .footnotes ol,.entry-content .footnotes li,.entry-content .footnotes p{font-size:20px;font-size:1.2rem;line-height:1.8571;margin-bottom:26px;margin-bottom:1.625rem}
 tt,code,kbd,samp,pre{font-family:monospace}
 p code,li code{font-size:12px;font-size:0.75rem;line-height:1.5;white-space:nowrap;margin:0 2px;padding:0 5px;border:1px solid #e6e6e6;background-color:#f2f2f2;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px}
 pre{font-size:12px;font-size:0.75rem;line-height:1.5;overflow-x:auto}
