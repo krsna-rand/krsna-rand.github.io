@@ -812,7 +812,7 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 .inline-list li{list-style-type:none;display:inline}
 b,i,strong,em,blockquote,p,q,span,figure,img,h1,h2,header,input,a{-webkit-transition:all 0.2s ease;-moz-transition:all 0.2s ease;-ms-transition:all 0.2s ease;-o-transition:all 0.2s ease;transition:all 0.2s ease}
 body{font-family:"Lato",Calibri,Arial,sans-serif;color:rgba(34,34,34,0.8)}
-h1,h2,h3,h4,h5,h6{font-family:"Lato",Calibri,Arial,sans-serif;font-weight:500}
+h1,h2,h3,h4,h5,h6{font-family:"Lato",Calibri,Arial,sans-serif;font-weight:700}
 h1{color:#3ea3e7;font-size:28px;font-size:1.75rem}
 @media only screen and (min-width: 48em){h1{color:#3ea3e7;font-size:32px;font-size:2rem}
 }
