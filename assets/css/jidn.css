@@ -42,6 +42,7 @@ pre {
 html,
 body {
   overflow-x: hidden;
+  background-color: hsl(60, 9%, 87%);
 }
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -55,7 +56,6 @@ html {
 }
 body {
   color: #515151;
-  background-color: #fff;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
@@ -279,6 +279,7 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
+  text-align: center;
 }
 .masthead-title a {
   color: #3ea3e7;
