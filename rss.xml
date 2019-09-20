@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nectarian Randomness</title><link>https://krsna-rand.github.io/</link><description>Random verses from Bhagavad-gita and Srimad Bhagavatam generated using awk</description><atom:link href="https://krsna-rand.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Wed, 18 Sep 2019 05:33:28 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>SB:appearance:116/247</title><link>https://krsna-rand.github.io/posts/sb-116-appearance/</link><dc:creator>soul4krsna</dc:creator><description>&lt;div&gt;&lt;h3&gt;Canto 3: Status Quo&lt;/h3&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Nectarian Randomness</title><link>https://krsna-rand.github.io/</link><description>Random verses from Bhagavad-gita and Srimad Bhagavatam generated using awk</description><atom:link rel="self" type="application/rss+xml" href="https://krsna-rand.github.io/rss.xml"></atom:link><language>en</language><lastBuildDate>Fri, 20 Sep 2019 02:34:42 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>SB:forgets:97/126</title><link>https://krsna-rand.github.io/posts/sb-97-forgets/</link><dc:creator>soul4krsna</dc:creator><description>&lt;div&gt;&lt;h3&gt;Canto 5: Creative Impetus&lt;/h3&gt;
+&lt;h3&gt;The Material World as the Great Forest of Enjoyment&lt;/h3&gt;
+&lt;h3&gt;5.14.33&lt;/h3&gt;
+&lt;p&gt;evam adhvany avarundhano mrtyu-gaja-bhayat tamasi giri-kandara-praye&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://krsna-rand.github.io/posts/sb-97-forgets/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>forgets</category><guid>https://krsna-rand.github.io/posts/sb-97-forgets/</guid><pubDate>Fri, 20 Sep 2019 02:32:22 GMT</pubDate></item><item><title>Bg:forgets:1/17</title><link>https://krsna-rand.github.io/posts/bg-1-forgets/</link><dc:creator>soul4krsna</dc:creator><description>&lt;div&gt;&lt;h3&gt;Observing the Armies on the Battlefield of Kurukṣetra&lt;/h3&gt;
+&lt;h3&gt;1.30&lt;/h3&gt;
+&lt;p&gt;na ca śaknomy avasthātuṁ&lt;/p&gt;
+&lt;p&gt;bhramatīva ca me manaḥ&lt;/p&gt;
+&lt;p&gt;nimittāni ca paśyāmi&lt;/p&gt;
+&lt;p&gt;viparītāni keśava&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://krsna-rand.github.io/posts/bg-1-forgets/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>forgets</category><guid>https://krsna-rand.github.io/posts/bg-1-forgets/</guid><pubDate>Fri, 20 Sep 2019 02:31:57 GMT</pubDate></item><item><title>SB:appearance:116/247</title><link>https://krsna-rand.github.io/posts/sb-116-appearance/</link><dc:creator>soul4krsna</dc:creator><description>&lt;div&gt;&lt;h3&gt;Canto 3: Status Quo&lt;/h3&gt;
 &lt;h3&gt;Fundamental Principles of Material Nature&lt;/h3&gt;
 &lt;h3&gt;3.26.61&lt;/h3&gt;
 &lt;p&gt;manasas candrama jato&lt;/p&gt;
@@ -52,17 +62,4 @@
 &lt;p&gt;na śaśāṅko na pāvakaḥ&lt;/p&gt;
 &lt;p&gt;yad gatvā na nivartante&lt;/p&gt;
 &lt;p&gt;tad dhāma paramaṁ mama&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://krsna-rand.github.io/posts/bg-5-dedicated/"&gt;Read more…&lt;/a&gt; (2 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>dedicated</category><guid>https://krsna-rand.github.io/posts/bg-5-dedicated/</guid><pubDate>Sun, 15 Sep 2019 01:24:27 GMT</pubDate></item><item><title>SB:sacrifice:6/799</title><link>https://krsna-rand.github.io/posts/sb-6-sacrifice/</link><dc:creator>soul4krsna</dc:creator><description>&lt;div&gt;&lt;h3&gt;Canto 1: Creation&lt;/h3&gt;
-&lt;h3&gt;Divinity and Divine Service&lt;/h3&gt;
-&lt;h3&gt;1.2.6&lt;/h3&gt;
-&lt;p&gt;sa vai pumsam paro dharmo&lt;/p&gt;
-&lt;p&gt;yato bhaktir adhoksaje&lt;/p&gt;
-&lt;p&gt;ahaituky apratihata&lt;/p&gt;
-&lt;p&gt;yayatma suprasidati&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://krsna-rand.github.io/posts/sb-6-sacrifice/"&gt;Read more…&lt;/a&gt; (2 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>sacrifice</category><guid>https://krsna-rand.github.io/posts/sb-6-sacrifice/</guid><pubDate>Fri, 13 Sep 2019 07:05:35 GMT</pubDate></item><item><title>Bg:sacrifice:50/132</title><link>https://krsna-rand.github.io/posts/bg-50-sacrifice/</link><dc:creator>soul4krsna</dc:creator><description>&lt;div&gt;&lt;h3&gt;Transcendental Knowledge&lt;/h3&gt;
-&lt;h3&gt;4.33&lt;/h3&gt;
-&lt;p&gt;śreyān dravya-mayād yajñāj&lt;/p&gt;
-&lt;p&gt;jñāna-yajñaḥ parantapa&lt;/p&gt;
-&lt;p&gt;sarvaṁ karmākhilaṁ pārtha&lt;/p&gt;
-&lt;p&gt;jñāne parisamāpyate&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://krsna-rand.github.io/posts/bg-50-sacrifice/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>sacrifice</category><guid>https://krsna-rand.github.io/posts/bg-50-sacrifice/</guid><pubDate>Fri, 13 Sep 2019 07:05:11 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="https://krsna-rand.github.io/posts/bg-5-dedicated/"&gt;Read more…&lt;/a&gt; (2 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>dedicated</category><guid>https://krsna-rand.github.io/posts/bg-5-dedicated/</guid><pubDate>Sun, 15 Sep 2019 01:24:27 GMT</pubDate></item></channel></rss>
