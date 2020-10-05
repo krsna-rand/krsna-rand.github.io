@@ -27,8 +27,6 @@ Srila Prabhupada set out to America in 1965 and established the International So
 
 A brief biography of his divine presence in this material world can be found out [here](https://krishna.org/srila-prabhupada-a-brief-biography/).
 
----
----
 
 ### How it's made?
 
